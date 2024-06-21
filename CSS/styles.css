@@ -1,0 +1,15 @@
+body {
+  background-color: #f8f9fa; /* Color de fondo claro */
+}
+
+.titulo {
+  font-size: 3rem; /* Tamaño grande del texto */
+  font-weight: bold; /* Negrita */
+  color: #343a40; /* Color de texto oscuro */
+  margin-bottom: 20px; /* Espacio abajo del título */
+}
+
+.texto {
+  font-size: 1.5rem; /* Tamaño del texto */
+  color: #007bff; /* Color de texto azul */
+}
